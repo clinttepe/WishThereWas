@@ -23,7 +23,7 @@ An open source project wishlist - what projects you wish existed. Maybe yu'll fi
 ##### JavaScript Frameworks
 
 ##### JavaScript Tools
-* example - React Protractor-like testing tool
+* [example - React Protractor-like testing tool](https://github.com/zavelevsky/WishThereWas/issues/1)
 
 ##### JavaScript Guides
 
@@ -38,3 +38,4 @@ An open source project wishlist - what projects you wish existed. Maybe yu'll fi
 ---
 ### Contribution
 Your contributions and suggestions are heartily♡ welcome. (◠‿◠)
+We can use issues in order to "vote" a project - or communicate that it started (along with a link in the list).

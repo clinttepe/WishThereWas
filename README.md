@@ -9,6 +9,12 @@ An open source project wishlist - what projects you wish existed. Maybe you'll f
     - [Guides](#javascript-guides)
     - [Testing](#javascript-tests)
     - [Benchmarks](#javascript-benchmarks)
+  - [PHP](#php)
+    - [Libraries](#php-libraries)
+    - [Frameworks](#php-frameworks)
+    - [Tools](#php-tools)
+    - [Guides](#php-guides)
+    - [Testing](#php-tests)
   - [Miscellaneous](#miscellaneous)
     - [Tools](#general-tools)
 - [Software Mods](#software-mods)
@@ -21,6 +27,7 @@ An open source project wishlist - what projects you wish existed. Maybe you'll f
 ### Languages
 
 ---
+
 #### JavaScript
 
 ##### JavaScript Libraries
@@ -35,6 +42,21 @@ An open source project wishlist - what projects you wish existed. Maybe you'll f
 ##### JavaScript Tests
 
 ##### JavaScript Benchmarks
+---
+
+#### PHP
+
+##### PHP Libraries
+
+##### PHP Frameworks
+
+##### PHP Tools
+
+##### PHP Guides
+
+##### PHP Tests
+
+##### PHP Benchmarks
 
 ---
 #### Miscellaneous

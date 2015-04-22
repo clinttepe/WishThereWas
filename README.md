@@ -11,11 +11,15 @@ An open source project wishlist - what projects you wish existed. Maybe you'll f
     - [Benchmarks](#javascript-benchmarks)
   - [Miscellaneous](#miscellaneous)
     - [Tools](#general-tools)
+- [Software Mods](#software-mods)
+  - [Apache](#apache)
+    - [Modules](#apache-modules)
+    - [Logging and Analysis](#apache-logs)
 - [Contribution](#contribution)
   
 ---
 ### Languages
-
+---
 #### JavaScript
 
 ##### JavaScript Libraries
@@ -36,6 +40,18 @@ An open source project wishlist - what projects you wish existed. Maybe you'll f
 
 ##### General Tools
 ---
+
+---
+### Software Mods
+---
+#### Apache
+
+##### Modules
+
+##### Logging & Analysis
+---
+
+
 ### Contribution
 Your contributions and suggestions are heartily♡ welcome. (◠‿◠)
 We can use issues in order to "vote" a project - or communicate that it started (along with a link in the list).

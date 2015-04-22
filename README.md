@@ -1,5 +1,5 @@
 ## WishThereWas
-An open source project wishlist - what projects you wish existed. Maybe yu'll find out they exist or you'll inspire someone to build them.
+An open source project wishlist - what projects you wish existed. Maybe you'll find out they exist or you'll inspire someone to build them.
 
 - [Languages](#languages)
   - [JavaScript](#javascript)
@@ -9,7 +9,7 @@ An open source project wishlist - what projects you wish existed. Maybe yu'll fi
     - [Guides](#javascript-guides)
     - [Testing](#javascript-tests)
     - [Benchmarks](#javascript-benchmarks)
-  - [N/A](#na)
+  - [Miscellaneous](#miscellaneous)
     - [Tools](#general-tools)
 - [Contribution](#contribution)
   
@@ -32,7 +32,7 @@ An open source project wishlist - what projects you wish existed. Maybe yu'll fi
 ##### JavaScript Benchmarks
 
 ---
-#### N/A
+#### Miscellaneous
 
 ##### General Tools
 ---
